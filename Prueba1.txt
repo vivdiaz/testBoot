@@ -2,9 +2,5 @@ Este el ejercicio prueba 1
 
 Probando funcionalidades GIT
 
-Aca estaremos modificando el mismo archivo 
-///// 
+Modificación de avance
 
-Voy a hacer esto
-
-////
