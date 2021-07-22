@@ -1,3 +1,10 @@
 Este el ejercicio prueba 1
 
 Probando funcionalidades GIT
+
+Aca estaremos modificando el mismo archivo 
+///// 
+
+Voy a hacer esto
+
+////
